@@ -12,7 +12,7 @@ Registrar e analisar o comportamento espectral de cargas eletroeletrônicas cone
 
 ## Estrutura do Projeto
 
-├── fft.ino -> Código da Pico 2 (Arduino) que envia a FFT pela serial<br>
+├── fft.ino -> Código da Pico 2 (Arduino) que calcula e envia a FFT pela serial<br>
 ├── salvar_fft.py -> Script Python para registrar os dados em CSV<br>
 ├── FFT_Plot.py -> Script de visualização da FFT<br>
 ├── BD/ -> Conjunto de arquivos CSV com medições reais de equipamentos<br>
